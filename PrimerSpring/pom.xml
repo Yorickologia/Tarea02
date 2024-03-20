@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.coderhouse</groupId>
-	<artifactId>clase-08</artifactId>
+	<artifactId>PrimerSpringApplication</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>PrimerSpringApliccation</name>
 	<description>Mi Primer App en Spring Boot</description>

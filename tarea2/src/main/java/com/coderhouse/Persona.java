@@ -3,10 +3,7 @@ package com.coderhouse;
 public class Persona {
 	 private String nombre;
 	    private String apellido;
-
-	    // Constructores, getters y setters
 	    
-
 	    // Método toString para facilitar la impresión en consola
 	    @Override
 	    public String toString() {
